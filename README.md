@@ -4,7 +4,7 @@
 
 Aqui você encontrará **três dashboards interativos**, desenvolvidos com Power BI, utilizando o conjunto de dados de amostra **data-financial**. Esses dashboards fornecem **análises financeiras detalhadas** e visualizações impactantes, facilitando a tomada de decisões baseadas em dados sólidos.
 
-Este projeto é parte do desafio proposto no curso **Criando Um Relatório Gerencial de Vendas com Power BI**, ministrado pela professora [Juliana Mascarenhas](https://www.linkedin.com/in/juliana-mascarenhas-ds/) no Bootcamp da [NTT DATA](https://www.linkedin.com/company/ntt-data-europe-latam/posts/?feedView=all) - Engenharia de Dados com Python, oferecido pela [DIO](https://www.dio.me/).
+Este projeto é parte do desafio proposto nos cursos **"Criando Um Relatório Gerencial de Vendas com Power BI"** e **"Criando um Dashboard Gerencial para Tomada de Decisões Com Power BI"**, ambos ministrados pela professora [Juliana Mascarenhas](https://www.linkedin.com/in/juliana-mascarenhas-ds/) no **Bootcamp da [NTT DATA](https://www.linkedin.com/company/ntt-data-europe-latam/posts/?feedView=all) - Engenharia de Dados com Python**, oferecido pela **[DIO](https://www.dio.me/)**.
 
 <br>
 
